@@ -1,4 +1,4 @@
-# Data-Science-2020
+# Wrie a Data Science blog post
 # Table of Contents
 <li>Installation
 <li>Project Motivation
