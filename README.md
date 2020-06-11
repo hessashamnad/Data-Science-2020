@@ -8,10 +8,10 @@
     
     
 ## Installation
-Here I have used the /libraries from Anaconda Distribution of Python and Jypyter Notebook to write down the code.
+Here I have used the libraries from Anaconda Distribution of Python and Jypyter Notebook to write down the code.
 
 ## Project Motivation
-I found the Google Job Skills data set from Kaggle andI got very excited to work on it.Being an aspiring Data Scientist, whose dream is to work at google, I was curious to understand what is demaded most in the career site to work at google.
+I found the Google Job Skills data set from Kaggle and I got very excited to work on it.Being an aspiring Data Scientist, whose dream is to work at google, I was curious to understand what is demanded most in the career site to work at google.
 
 ## File Descriptions
 I have saved the notebook with my analysis in this repository based on the following questions:
