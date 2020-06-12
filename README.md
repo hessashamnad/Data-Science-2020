@@ -23,4 +23,4 @@ I have saved the notebook with my analysis in this repository based on the follo
 The final results can be found in the post on medium.
 
 ## Licensing, Authors, Acknowledgements
-Credit to Niyamat Ullah for this data from Kaggle
+Credit to Kaggle for providing the data set
