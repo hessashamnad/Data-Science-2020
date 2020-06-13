@@ -20,7 +20,7 @@ I have saved the notebook with my analysis in this repository based on the follo
 <li>What is the most popular degree mentioned under Minimum Qualifications?
 
 ## Result
-The final results can be found in the post on medium.
+The final results can be found in the post on [Medium](https://medium.com/@hessa.shamnad/what-it-takes-to-be-a-googler-fef45b137d81).
 
 ## Licensing, Authors, Acknowledgements
 Credit to Kaggle for providing the data set
